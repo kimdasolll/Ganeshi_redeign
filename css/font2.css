@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'Cor-L';
+    font-weight: 300;
+    src: url(/font/CORMORANT-LIGHT.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'Cor-R';
+    font-weight: 400;
+    src: url(/font/CORMORANT-REGULAR.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'Cor-M';
+    font-weight: 600;
+    src: url(/font/CORMORANT-MEDIUM.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'Cor-SB';
+    font-weight: 800;
+    src: url(/font/CORMORANT-SEMIBOLD.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'Cor-B';
+    font-weight: 900;
+    src: url(/font/CORMORANT-BOLD.woff) format("woff");
+}
